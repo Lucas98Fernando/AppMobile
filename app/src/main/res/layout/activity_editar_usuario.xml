@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <CheckBox
+        android:id="@+id/checkBox"
+        tools:layout_editor_absoluteX="256dp"
+        tools:layout_editor_absoluteY="408dp"
+        android:layout_width="80dp"
+        android:layout_height="23dp"
+        android:text="Olinda" />
+
+    <CheckBox
+        android:id="@+id/checkBox2"
+        tools:layout_editor_absoluteX="163dp"
+        tools:layout_editor_absoluteY="408dp"
+        android:layout_width="80dp"
+        android:layout_height="23dp"
+        android:text="Recife" />
+
+    <CheckBox
+        android:id="@+id/checkBox3"
+        tools:layout_editor_absoluteX="251dp"
+        tools:layout_editor_absoluteY="247dp"
+        android:layout_width="85dp"
+        android:layout_height="22dp"
+        android:text="Gospel" />
+
+    <CheckBox
+        android:id="@+id/checkBox4"
+        tools:layout_editor_absoluteX="163dp"
+        tools:layout_editor_absoluteY="248dp"
+        android:layout_width="71dp"
+        android:layout_height="21dp"
+        android:text="Rock" />
+
+    <EditText
+        android:id="@+id/editText7"
+        tools:layout_editor_absoluteX="163dp"
+        tools:layout_editor_absoluteY="356dp"
+        android:layout_width="215dp"
+        android:layout_height="25dp"
+        android:ems="10"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/editText15"
+        tools:layout_editor_absoluteX="163dp"
+        tools:layout_editor_absoluteY="301dp"
+        android:layout_width="215dp"
+        android:layout_height="25dp"
+        android:ems="10"
+        android:inputType="textPersonName" />
+
+    <TextView
+        android:id="@+id/textView19"
+        tools:layout_editor_absoluteX="33dp"
+        tools:layout_editor_absoluteY="408dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Localidade: " />
+
+    <TextView
+        android:id="@+id/textView20"
+        tools:layout_editor_absoluteX="33dp"
+        tools:layout_editor_absoluteY="193dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Nome completo: " />
+
+    <TextView
+        android:id="@+id/textView21"
+        tools:layout_editor_absoluteX="33dp"
+        tools:layout_editor_absoluteY="248dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Gênero musical: " />
+
+    <TextView
+        android:id="@+id/textView22"
+        tools:layout_editor_absoluteX="33dp"
+        tools:layout_editor_absoluteY="301dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Contato:" />
+
+    <TextView
+        android:id="@+id/textView23"
+        tools:layout_editor_absoluteX="33dp"
+        tools:layout_editor_absoluteY="356dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="E-mail:" />
+
+    <CheckBox
+        android:id="@+id/checkBox5"
+        tools:layout_editor_absoluteX="238dp"
+        tools:layout_editor_absoluteY="124dp"
+        android:layout_width="64dp"
+        android:layout_height="22dp"
+        android:text="Não" />
+
+    <TextView
+        android:id="@+id/textView24"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Editar Perfil de Usuário"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+        android:textColor="#FF5722"
+        tools:layout_editor_absoluteX="33dp"
+        tools:layout_editor_absoluteY="26dp" />
+
+    <TextView
+        android:id="@+id/textView25"
+        tools:layout_editor_absoluteX="33dp"
+        tools:layout_editor_absoluteY="127dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Você é artísta ?" />
+
+    <CheckBox
+        android:id="@+id/checkBox6"
+        tools:layout_editor_absoluteX="154dp"
+        tools:layout_editor_absoluteY="124dp"
+        android:layout_width="63dp"
+        android:layout_height="21dp"
+        android:text="Sim" />
+
+    <EditText
+        android:id="@+id/editText16"
+        tools:layout_editor_absoluteX="163dp"
+        tools:layout_editor_absoluteY="193dp"
+        android:layout_width="215dp"
+        android:layout_height="25dp"
+        android:ems="10"
+        android:inputType="textPersonName" />
+
+    <Button
+        android:id="@+id/button13"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#03A9F4"
+        android:text="Atualizar Cadastro"
+        android:textColor="#FFFFFF"
+        tools:layout_editor_absoluteX="127dp"
+        tools:layout_editor_absoluteY="476dp" />
+</androidx.constraintlayout.widget.ConstraintLayout>

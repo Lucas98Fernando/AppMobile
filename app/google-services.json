@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "484049012988",
+    "firebase_url": "https://handshake-d3690.firebaseio.com",
+    "project_id": "handshake-d3690",
+    "storage_bucket": "handshake-d3690.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484049012988:android:e6bf2a22f6cd3eff2fef79",
+        "android_client_info": {
+          "package_name": "com.example.layoutprojeto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484049012988-ms8n0bll6kpgo75ms6m5vvni41ef74u6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.layoutprojeto",
+            "certificate_hash": "3e1e19832907ba59aee299ffb7aecb810cb455db"
+          }
+        },
+        {
+          "client_id": "484049012988-f808mouhbuvj17a0k6p6fkfgouhbi1t1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHnJLvau0B6V_XsbSfKmTmUtP4Rs0y85I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484049012988-f808mouhbuvj17a0k6p6fkfgouhbi1t1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
